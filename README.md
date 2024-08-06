@@ -1,3 +1,6 @@
 # Pet-Adoption-Management-Website
 
 The Pet Adoption Database System makes adopting pets easier and more transparent with its three main sections: "About Us," "Adopt Animals," and "Admin Login." In "About Us," we share the Adoption Center's mission, values, and practices to build trust with potential adopters. The "Adopt Animals" section has a user-friendly interface where you can search for available animals, view detailed profiles, and easily submit adoption forms. For administrators, the "Admin Login" section provides tools for managing the center efficiently. This includes analytics showing the distribution of animals by type, handling adoption forms, and maintaining accurate health records. Admins can also manage animal listings, detailing species, breed, age, size, temperament, and behavior. This system makes the pet adoption process better for both adopters and administrators.
+
+
+To set up and run the Pet Adoption Database System project from this repository, follow these steps: Unzip the project files and locate the `connect.php` file to connect to your MySQL database. Using PHPMyAdmin, import the provided database file. Once the database is imported, start your Apache server and navigate to `localhost/DBPA/index.html` in your browser to access the system.
